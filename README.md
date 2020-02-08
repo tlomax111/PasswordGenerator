@@ -6,4 +6,4 @@ We were asked to create a website that generaters a unique password. The user is
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/58192900/74078681-50d55a80-49fb-11ea-84e2-8622bc6ff1ea.png)
 
 
-[Click here to check out Password Generator](https://tlomax111.github.io/PasswordGenerator/)
+[Click here to check out my password generator](https://tlomax111.github.io/PasswordGenerator/)
